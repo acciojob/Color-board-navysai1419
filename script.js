@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Add an event listener to reset the color after 1 second
     square.addEventListener("mouseover", function() {
       setTimeout(function() {
-        square.style.backgroundColor = "#ccc";
+        square.style.backgroundColor = "rgb(29, 29, 29)";
       }, 1000);
     });
   }
