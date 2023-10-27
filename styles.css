@@ -8,7 +8,7 @@
 .square {
   width: 20px;
   height: 20px;
-  background-color: #ccc; /* Default background color */
+  background-color: rgb(204, 204, 204);/* Default background color */
   transition: background-color 1s; /* Smooth transition */
 }
 
